@@ -3,4 +3,4 @@
 
 Sinh viên thực hiện:
 1. Trương Đức Thịnh - 24521708
-2. Phạm Thanh Thiện
+2. Phạm Thanh Thiên - 24521664
