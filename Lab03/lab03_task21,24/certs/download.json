@@ -1,0 +1,6 @@
+{
+  "host": "www.amazon.com",
+  "fetched_at_utc": "2026-11-02T10:06:56.660943+00:00",
+  "command": "openssl s_client -connect www.amazon.com:443 -servername www.amazon.com -showcerts",
+  "chain_certificates": 3
+}

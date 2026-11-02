@@ -1,0 +1,110 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            05:66:0c:2e:a8:56:e3:d5:23:95:3e:93:9e:88:6b:5d
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=Amazon, CN=Amazon RSA 2048 M04
+        Validity
+            Not Before: Jan 19 00:00:00 2026 GMT
+            Not After : Jan 11 23:59:59 2027 GMT
+        Subject: CN=www.amazon.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d3:0e:4d:2a:d1:d9:aa:43:50:ea:87:2a:63:40:
+                    4a:30:bb:8c:43:a1:bc:6f:df:af:fd:a9:65:32:ee:
+                    c6:c2:83:68:55:7d:69:1b:ec:2f:93:7d:3b:38:f3:
+                    21:a0:0d:63:77:79:0a:70:30:cf:1e:af:34:b2:29:
+                    c9:11:4a:36:0b:d4:55:5e:8c:95:4f:99:7b:3d:ab:
+                    de:1a:d3:6f:17:91:8a:19:13:03:83:b8:18:58:1c:
+                    76:a9:82:6e:ce:f1:3e:4e:9b:7a:1c:d7:1d:28:6a:
+                    90:eb:a4:d2:b6:3b:2d:d4:61:0e:81:3e:75:5e:77:
+                    bf:bf:98:75:7e:fa:72:0c:b5:4a:4a:d9:3a:9c:87:
+                    f0:a6:c5:f0:c9:21:94:9a:b4:06:fa:b3:36:67:81:
+                    55:0e:98:1c:5c:05:39:eb:e8:7e:d5:80:22:46:13:
+                    ee:f6:e4:65:ed:cb:6a:29:05:ab:aa:23:9e:d7:b0:
+                    e8:a0:40:08:a3:45:2a:3d:92:05:f5:76:05:7a:35:
+                    10:04:c2:2a:b5:57:38:eb:0f:fd:3c:0e:e7:8c:2f:
+                    9a:2a:a3:0d:74:51:bb:3d:2a:14:d9:77:dc:29:a6:
+                    c9:3c:9b:c4:99:32:8d:a2:3c:75:45:4b:4e:60:0d:
+                    37:00:4c:bf:06:ee:4b:8c:6c:03:1d:e3:42:7e:0b:
+                    37:bb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                1F:52:92:61:56:82:54:7F:81:66:D8:1D:3D:0A:AA:32:5C:87:DD:08
+            X509v3 Subject Key Identifier: 
+                2D:68:40:22:95:87:3F:14:F7:13:28:F5:58:38:31:4E:8B:DF:FB:07
+            X509v3 Subject Alternative Name: 
+                DNS:www.amazon.com, DNS:yp.amazon.com, DNS:konrad-test.amazon.com, DNS:p-yo-www-amazon-com-kalias.amazon.com, DNS:mp3recs.amazon.com, DNS:p-nt-www-amazon-com-kalias.amazon.com, DNS:origin-www.amazon.com, DNS:buybox.amazon.com, DNS:uedata.amazon.com, DNS:us.amazon.com, DNS:yellowpages.amazon.com, DNS:home.amazon.com, DNS:www.m.amazon.com, DNS:iphone.amazon.com, DNS:www.amzn.com, DNS:huddles.amazon.com, DNS:amazon.com, DNS:corporate.amazon.com, DNS:shop.business.amazon.com, DNS:p-y3-www-amazon-com-kalias.amazon.com, DNS:buckeye-retail-website.amazon.com, DNS:www.cdn.amazon.com, DNS:test-www.amazon.com, DNS:amzn.com
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://crl.r2m04.amazontrust.com/r2m04.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.r2m04.amazontrust.com
+                CA Issuers - URI:http://crt.r2m04.amazontrust.com/r2m04.cer
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 4C:63:DC:98:E5:9C:1D:AB:88:F6:1E:8A:3D:DE:AE:8F:
+                                AB:44:A3:37:7B:5F:9B:94:C3:FB:A1:9C:FC:C1:BE:26
+                    Timestamp : Jan 19 22:00:38.789 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:21:00:B1:4E:72:54:9D:37:67:7D:07:02:0E:
+                                3D:58:4F:8E:FF:73:96:AB:B5:FD:6C:D9:35:95:25:55:
+                                B4:97:EE:7A:39:02:20:48:AE:7C:72:B8:A4:D4:04:23:
+                                F9:10:F2:6C:9D:34:CF:B3:79:A6:D3:D3:80:83:74:3A:
+                                BB:C1:5A:25:82:C6:A8
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 1C:9F:68:2C:E9:FA:F0:45:69:50:F8:1B:96:8A:87:DD:
+                                DB:32:10:D8:4C:E6:C8:B2:E3:82:52:4A:C4:CF:59:9F
+                    Timestamp : Jan 19 22:00:38.836 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:F0:72:98:A1:82:FB:5E:74:39:D0:11:
+                                B7:8E:46:00:34:9B:C2:5F:4E:AB:CD:77:F0:9F:03:1F:
+                                64:BC:C9:B7:CE:02:21:00:A4:A3:6D:AF:0D:D6:AA:2F:
+                                73:BA:9E:CA:1D:57:BB:08:13:60:F7:23:A1:4F:D5:71:
+                                9B:3F:D0:8D:11:C2:C4:F5
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 60:4C:9A:AF:7A:7F:77:5F:01:D4:06:FC:92:0D:C8:99:
+                                EB:0B:1C:7D:F8:C9:52:1B:FA:FA:17:77:3B:97:8B:C9
+                    Timestamp : Jan 19 22:00:39.035 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:20:31:D5:2E:4C:CA:35:6B:37:A4:07:35:91:
+                                37:9C:42:A7:88:C1:5A:0F:BF:5E:CA:AD:6C:AA:EE:7F:
+                                48:A9:54:C9:02:21:00:9D:1C:F9:23:56:5D:E4:FD:E7:
+                                EB:6D:F3:54:0E:B4:46:3E:B9:A7:C6:34:50:9F:C0:99:
+                                5C:DB:6F:97:17:81:C4
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        57:7f:a3:94:9b:7e:19:4d:5e:8d:90:f3:ab:48:18:bd:8e:6d:
+        1f:49:82:bb:2b:af:09:fc:ef:99:df:42:94:f6:b8:76:13:44:
+        a0:b5:fd:36:91:73:7c:66:30:b3:a4:88:02:ae:aa:8d:d4:83:
+        e5:49:37:0c:67:0d:fd:c0:ad:1e:2f:75:a4:c8:82:30:83:cf:
+        8e:c9:d7:d7:0b:5b:0a:70:a8:f7:7f:c6:60:87:48:ac:fa:b6:
+        67:48:ba:a1:24:1d:ee:94:25:3f:98:d4:4f:48:5c:44:42:76:
+        9d:53:13:2d:cc:da:38:40:09:d9:f2:10:6d:6c:be:b0:8c:c8:
+        10:4b:b1:e6:a6:3a:ce:75:de:9d:9d:27:c2:f9:13:00:b9:70:
+        03:af:0e:21:c6:25:16:e1:b9:9c:86:63:f2:8d:79:9d:00:2b:
+        e3:50:a7:bc:b4:72:61:5d:49:ab:59:fe:7f:5b:66:8d:e1:49:
+        41:3c:e0:6f:2c:ce:2a:a4:e8:36:f0:89:aa:64:df:dc:d6:db:
+        9e:26:49:bf:a0:6a:06:76:b4:df:b0:d6:b2:51:ed:be:9e:78:
+        8d:34:e1:58:43:43:81:cc:e0:0b:4d:cc:de:b7:19:bf:4d:7b:
+        58:7f:69:10:2f:62:bf:4e:7a:83:0d:94:4c:ef:c3:3f:de:d5:
+        35:c5:da:e2
